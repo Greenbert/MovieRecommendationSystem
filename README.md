@@ -1,4 +1,4 @@
-![image](https://github.com/Greenbert/MovieRecommendationSystem/assets/68094520/37328ec3-e54b-4c83-a259-9d0571b2e9cf)# movie-recommendation-system
+# movie-recommendation-system
 
 ## A movie recommendation system based on Mahout to implement collaborative filtering recommendation algorithms.
 
